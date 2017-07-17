@@ -82,27 +82,19 @@ swipe_refresh_layout.setOnLoadMoreListener(new SuperEasyRefreshLayout.OnLoadMore
 
 #### 1，ListView和RecyclerView下拉刷新效果
 
-```html
-<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample01.png" style="zoom:50%" />
-```
+![Aaron Swartz](https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample01.png)
 
 #### 2，ListView和RecyclerView上拉加载更多效果
 
-```html
-<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample02.png" style="zoom:50%" />
-```
+![Aaron Swartz](https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample02.png)
 
-#### 1，ScrollView下拉刷新效果
+#### 3，ScrollView下拉刷新效果
 
-```html
-<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample03.png" style="zoom:50%" />
-```
+![Aaron Swartz](https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample03.png)
 
-#### 1，GridView下拉刷新效果
+#### 4，GridView下拉刷新效果
 
-```html
-<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample04.png" style="zoom:50%" />
-```
+![Aaron Swartz](https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample04.png)
 
 
 
