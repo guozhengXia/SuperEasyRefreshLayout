@@ -76,7 +76,33 @@ swipe_refresh_layout.setOnLoadMoreListener(new SuperEasyRefreshLayout.OnLoadMore
 });
 ```
 
+## 显示效果如下
 
+注：以下的刷新UI和加载更多的UI仅作为示例用。下拉刷新view和加载更多view已经单独抽取成一个类，使用者可以自行修改刷新样式。
+
+#### 1，ListView和RecyclerView下拉刷新效果
+
+```html
+<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample01.png" style="zoom:50%" />
+```
+
+#### 2，ListView和RecyclerView上拉加载更多效果
+
+```html
+<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample02.png" style="zoom:50%" />
+```
+
+#### 1，ScrollView下拉刷新效果
+
+```html
+<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample03.png" style="zoom:50%" />
+```
+
+#### 1，GridView下拉刷新效果
+
+```html
+<img src="https://github.com/guozhengXia/SuperEasyRefreshLayout/blob/master/sample04.png" style="zoom:50%" />
+```
 
 
 
