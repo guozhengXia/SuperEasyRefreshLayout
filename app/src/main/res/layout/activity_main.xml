@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+   <Button
+       android:id="@+id/btn_list_view"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="与ListView连用"/>
+   <Button
+       android:id="@+id/btn_recycler_view"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="与RecyclerView连用"/>
+   <Button
+       android:id="@+id/btn_scroll_view"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="与ScrollVeiw连用"/>
+   <Button
+       android:id="@+id/btn_grid_view"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="与GridVeiw连用"/>
+</LinearLayout>
