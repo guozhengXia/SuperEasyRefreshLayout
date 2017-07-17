@@ -75,7 +75,7 @@ public class ListViewActivity extends AppCompatActivity {
         @Override
         public View getView(int i, View view, ViewGroup viewGroup) {
             TextView textView = new TextView(ListViewActivity.this);
-            textView.setText("PullToRefreshLayout");
+            textView.setText("SuperEasyRefreshLayout");
             textView.setPadding(30,30,30,30);
             textView.setBackgroundColor(getResources().getColor(android.R.color.holo_green_dark));
             return textView;

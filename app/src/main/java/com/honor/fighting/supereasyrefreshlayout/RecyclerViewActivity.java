@@ -69,7 +69,7 @@ public class RecyclerViewActivity extends AppCompatActivity {
         @Override
         public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             TextView textView = new TextView(RecyclerViewActivity.this);
-            textView.setText("  PullToRefreshLayout                                       ");
+            textView.setText("  SuperEasyRefreshLayout                                       ");
             textView.setPadding(30,30,300,30);
             textView.setBackgroundColor(getResources().getColor(android.R.color.holo_green_dark));
             return new MyViewHolder(textView);
